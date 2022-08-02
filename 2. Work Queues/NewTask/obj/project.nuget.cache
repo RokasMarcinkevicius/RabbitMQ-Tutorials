@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9I7LWqk6jYF8DSX86PXfrK5+HFS39tSvHkR9LWMUrhPZaT3xxp0xLaQjEzKk9/OOma3Br3IVamVKHTjwVft8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rokas\\Documents\\Work - Topo Centras\\RabbitMQ Tutorials\\2. Work Queues\\NewTask\\NewTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rokas\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rokas\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Rokas\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
