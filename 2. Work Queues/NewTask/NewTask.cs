@@ -37,4 +37,3 @@ class NewTask
         return ((args.Length > 0) ? string.Join(" ", args) : "Hello World!");
     }
 }
-// https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
